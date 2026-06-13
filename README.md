@@ -10,7 +10,7 @@ This project implements an end-to-end retail analytics system that maps grocery 
 - **Reproducible**: Fixed random seeds throughout, plus an exactly-pinned `requirements.txt`.
 
 ## 🧠 Requirements
-- Python 3.11+ (required by the pinned pandas 3.x)
+- Python 3.11+
 - PostgreSQL 14+ running locally
 - Installed Python packages:
   `pip install -r requirements.txt`
