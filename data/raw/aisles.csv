@@ -1,0 +1,41 @@
+aisle_id,aisle,department_id
+1,fresh fruits,4
+2,fresh vegetables,4
+3,packaged vegetables fruits,4
+4,yogurt,16
+5,milk,16
+6,cheese,16
+7,eggs,16
+8,water seltzer sparkling water,7
+9,soft drinks,7
+10,juice nectars,7
+11,coffee,7
+12,chips pretzels,19
+13,crackers,19
+14,cookies cakes,19
+15,ice cream ice,1
+16,frozen meals,1
+17,bread,3
+18,breakfast bakery,3
+19,poultry counter,12
+20,packaged meat,12
+21,seafood counter,12
+22,canned meals beans,15
+23,soup broth bouillon,15
+24,cereal,14
+25,baking ingredients,13
+26,oils vinegars,13
+27,spices seasonings,13
+28,paper goods,17
+29,cleaning products,17
+30,hair care,11
+31,vitamins supplements,11
+32,baby food formula,18
+33,beers coolers,5
+34,red wines,5
+35,lunch meat,20
+36,fresh dips tapenades,20
+37,dog food care,8
+38,tea,7
+39,pasta sauce,9
+40,dry pasta,9

@@ -1,0 +1,201 @@
+product_id,product_name,department,times_purchased,reorder_rate,unique_customers
+120,Fresh Almond Milk #120,dairy eggs,29237,0.8305,4957
+540,Fresh Sparkling Water #540,produce,20653,0.7741,4666
+969,Gluten-Free Ice Cream #969,pets,15799,0.7303,4261
+569,Whole Almond Milk #569,pantry,13091,0.7048,3865
+651,Fresh Hummus #651,meat seafood,102,0.6961,31
+458,Fresh Cheddar #458,pantry,152,0.6908,47
+803,Gluten-Free Sparkling Lemonade #803,meat seafood,101,0.6832,32
+594,Fresh Tortilla Chips #594,dry goods pasta,10823,0.6817,3445
+999,Fresh Sourdough #999,dry goods pasta,153,0.6797,49
+124,Spicy Chicken Breast #124,meat seafood,96,0.6771,31
+386,Premium Ground Coffee #386,dairy eggs,102,0.6765,33
+163,Spicy Granola #163,bakery,159,0.673,52
+589,Original Cheddar #589,alcohol,106,0.6698,35
+818,Organic Almond Milk #818,dairy eggs,105,0.6667,35
+727,Original Chicken Breast #727,household,161,0.6646,54
+200,Organic Greek Yogurt #200,dry goods pasta,158,0.6646,53
+177,Natural Dog Treats #177,household,9447,0.6628,3186
+874,Classic Baby Wipes #874,dairy eggs,86,0.6628,29
+544,Family Size Cereal #544,dairy eggs,142,0.662,48
+669,Natural Baby Wipes #669,pets,139,0.6619,47
+355,Classic Granola #355,dry goods pasta,139,0.6619,47
+72,Lite Dish Soap #72,beverages,88,0.6591,30
+862,Original Ground Coffee #862,beverages,114,0.6579,39
+420,Classic Avocado #420,meat seafood,222,0.6577,76
+268,Gluten-Free Almond Milk #268,snacks,128,0.6563,44
+956,Original Sparkling Water #956,pantry,145,0.6552,50
+83,Whole Sparkling Water #83,dairy eggs,81,0.6543,28
+522,Family Size Sparkling Lemonade #522,dairy eggs,240,0.6542,83
+181,Organic Banana #181,beverages,95,0.6526,33
+802,Gluten-Free Avocado #802,snacks,204,0.652,71
+456,Organic Paper Towels #456,canned goods,192,0.651,67
+884,Premium IPA #884,dairy eggs,126,0.6508,44
+714,Original Ground Coffee #714,personal care,103,0.6505,36
+123,Spicy IPA #123,pantry,123,0.6504,43
+532,Original Ice Cream #532,dairy eggs,8120,0.6489,2851
+684,Premium Granola #684,dry goods pasta,94,0.6489,33
+304,Original Salsa #304,deli,108,0.6481,38
+632,Organic Cheddar #632,snacks,54,0.6481,19
+666,Organic Dish Soap #666,household,51,0.6471,18
+390,Fresh Cereal #390,dairy eggs,93,0.6452,33
+41,Lite IPA #41,dairy eggs,107,0.6449,38
+331,Low-Fat Olive Oil #331,canned goods,7354,0.6448,2612
+995,Spicy Pasta Sauce #995,canned goods,273,0.6447,97
+471,Original Tortilla Chips #471,personal care,149,0.6443,53
+988,Organic Chicken Breast #988,snacks,118,0.6441,42
+639,Classic Banana #639,babies,73,0.6438,26
+145,Original Olive Oil #145,dry goods pasta,6396,0.6435,2280
+894,Fresh Banana #894,dry goods pasta,353,0.6431,126
+48,Fresh Banana #48,deli,137,0.6423,49
+169,Low-Fat Greek Yogurt #169,snacks,123,0.6423,44
+845,Low-Fat IPA #845,produce,95,0.6421,34
+75,Family Size Dish Soap #75,household,81,0.642,29
+978,Fresh IPA #978,canned goods,173,0.6416,62
+661,Original Almond Milk #661,beverages,117,0.641,42
+414,Original IPA #414,dairy eggs,267,0.6404,96
+327,Organic Salsa #327,beverages,178,0.6404,64
+175,Family Size Salsa #175,household,328,0.6402,118
+738,Original Pasta Sauce #738,snacks,208,0.6394,75
+481,Spicy IPA #481,snacks,97,0.6392,35
+855,Family Size Paper Towels #855,snacks,133,0.6391,48
+271,Natural Tortilla Chips #271,snacks,166,0.6386,60
+986,Low-Fat Banana #986,pantry,80,0.6375,29
+931,Classic Dog Treats #931,canned goods,256,0.6367,93
+998,Gluten-Free Olive Oil #998,frozen,110,0.6364,40
+599,Fresh Dish Soap #599,pantry,239,0.636,87
+73,Fresh Cheddar #73,meat seafood,6605,0.6359,2405
+745,Whole Ground Coffee #745,babies,107,0.6355,39
+141,Family Size Sparkling Lemonade #141,dry goods pasta,244,0.6352,89
+427,Natural Hummus #427,deli,63,0.6349,23
+494,Gluten-Free Granola #494,pantry,260,0.6346,95
+424,Premium Avocado #424,breakfast,93,0.6344,34
+474,Original Dog Treats #474,meat seafood,131,0.6336,48
+233,Spicy Sparkling Water #233,produce,109,0.633,40
+38,Natural Hummus #38,alcohol,177,0.6328,65
+665,Organic Hummus #665,breakfast,230,0.6304,85
+788,Gluten-Free Sourdough #788,household,165,0.6303,61
+346,Gluten-Free Paper Towels #346,beverages,511,0.6301,189
+503,Gluten-Free Sparkling Water #503,dry goods pasta,162,0.6296,60
+258,Classic Dog Treats #258,dairy eggs,170,0.6294,63
+971,Family Size Dog Treats #971,snacks,124,0.629,46
+715,Gluten-Free Greek Yogurt #715,pets,361,0.6288,134
+629,Gluten-Free Cereal #629,meat seafood,328,0.628,122
+508,Low-Fat Sourdough #508,beverages,86,0.6279,32
+927,Original Sparkling Water #927,canned goods,102,0.6275,38
+690,Lite Cereal #690,babies,83,0.6265,31
+867,Lite Granola #867,alcohol,136,0.625,51
+85,Lite Dog Treats #85,pantry,237,0.6245,89
+585,Lite IPA #585,bakery,93,0.6237,35
+300,Spicy Ice Cream #300,produce,162,0.6235,61
+676,Whole Sparkling Lemonade #676,personal care,180,0.6222,68
+293,Low-Fat Sourdough #293,dry goods pasta,209,0.622,79
+944,Lite Banana #944,meat seafood,111,0.6216,42
+183,Whole Almond Milk #183,meat seafood,169,0.6213,64
+739,Whole Granola #739,personal care,108,0.6204,41
+699,Lite Greek Yogurt #699,produce,184,0.6196,70
+624,Whole Granola #624,bakery,173,0.6185,66
+238,Lite Greek Yogurt #238,bakery,283,0.6184,108
+114,Original IPA #114,meat seafood,228,0.6184,87
+911,Whole Dish Soap #911,personal care,199,0.6181,76
+318,Premium Avocado #318,personal care,89,0.618,34
+782,Family Size Pasta Sauce #782,pantry,5641,0.6173,2159
+28,Organic IPA #28,alcohol,175,0.6171,67
+844,Classic Avocado #844,produce,125,0.616,48
+686,Organic Baby Wipes #686,alcohol,195,0.6154,75
+754,Natural Olive Oil #754,beverages,143,0.6154,55
+883,Classic Avocado #883,bakery,104,0.6154,40
+101,Spicy Chicken Breast #101,alcohol,91,0.6154,35
+821,Classic Cheddar #821,produce,213,0.615,82
+253,Low-Fat Tortilla Chips #253,beverages,200,0.615,77
+902,Lite Banana #902,produce,496,0.6149,191
+444,Low-Fat Pasta Sauce #444,meat seafood,148,0.6149,57
+574,Classic Dog Treats #574,produce,83,0.6145,32
+340,Lite Cheddar #340,dry goods pasta,88,0.6136,34
+897,Family Size Avocado #897,meat seafood,194,0.6134,75
+34,Lite Olive Oil #34,canned goods,194,0.6134,75
+403,Original Banana #403,snacks,556,0.6133,215
+442,Classic Dish Soap #442,snacks,75,0.6133,29
+702,Family Size Avocado #702,pantry,106,0.6132,41
+597,Fresh Tortilla Chips #597,breakfast,106,0.6132,41
+401,Organic Chicken Breast #401,dry goods pasta,93,0.6129,36
+932,Spicy Olive Oil #932,household,129,0.6124,50
+158,Spicy Greek Yogurt #158,canned goods,201,0.6119,78
+941,Organic Tortilla Chips #941,household,412,0.6117,160
+425,Whole Hummus #425,bakery,103,0.6117,40
+506,Natural Pasta Sauce #506,meat seafood,139,0.6115,54
+143,Premium Banana #143,snacks,211,0.6114,82
+226,Fresh Almond Milk #226,snacks,1801,0.6113,700
+947,Premium Paper Towels #947,dry goods pasta,288,0.6111,112
+946,Original Salsa #946,dairy eggs,77,0.6104,30
+29,Natural Sparkling Lemonade #29,canned goods,118,0.6102,46
+178,Classic Cheddar #178,dairy eggs,118,0.6102,46
+382,Organic Salsa #382,beverages,405,0.6099,158
+395,Natural Sparkling Lemonade #395,household,115,0.6087,45
+774,Gluten-Free Salsa #774,household,97,0.6082,38
+371,Natural Sparkling Lemonade #371,snacks,74,0.6081,29
+46,Whole Chicken Breast #46,dry goods pasta,102,0.6078,40
+295,Spicy Almond Milk #295,canned goods,339,0.6077,133
+831,Natural Sparkling Lemonade #831,beverages,181,0.6077,71
+296,Family Size Sourdough #296,meat seafood,130,0.6077,51
+674,Fresh Sparkling Lemonade #674,dairy eggs,89,0.6067,35
+465,Classic Dog Treats #465,produce,272,0.6066,107
+155,Premium Dish Soap #155,bakery,244,0.6066,96
+344,Natural Pasta Sauce #344,meat seafood,183,0.6066,72
+848,Lite Ground Coffee #848,produce,109,0.6055,43
+755,Premium Sparkling Water #755,canned goods,4766,0.6053,1881
+479,Whole Avocado #479,pantry,309,0.6052,122
+473,Premium Sparkling Water #473,bakery,162,0.6049,64
+934,Fresh Hummus #934,pantry,81,0.6049,32
+102,Lite Sparkling Lemonade #102,beverages,334,0.6048,132
+572,Lite Olive Oil #572,bakery,129,0.6047,51
+930,Family Size Chicken Breast #930,breakfast,220,0.6045,87
+953,Low-Fat Dish Soap #953,pantry,134,0.6045,53
+222,Lite Pasta Sauce #222,meat seafood,316,0.6044,125
+878,Lite Paper Towels #878,personal care,144,0.6042,57
+207,Fresh Baby Wipes #207,personal care,149,0.604,59
+107,Natural Dish Soap #107,babies,101,0.604,40
+329,Spicy Paper Towels #329,dairy eggs,222,0.6036,88
+453,Fresh Tortilla Chips #453,meat seafood,121,0.6033,48
+539,Natural Chicken Breast #539,canned goods,554,0.6029,220
+554,Gluten-Free Hummus #554,snacks,136,0.6029,54
+566,Family Size IPA #566,beverages,141,0.6028,56
+203,Classic Hummus #203,meat seafood,2200,0.6027,874
+57,Classic Greek Yogurt #57,canned goods,146,0.6027,58
+68,Low-Fat Banana #68,frozen,342,0.6023,136
+8,Whole Dish Soap #8,household,171,0.6023,68
+20,Natural Dish Soap #20,meat seafood,349,0.6017,139
+115,Original Greek Yogurt #115,meat seafood,419,0.6014,167
+50,Organic Pasta Sauce #50,babies,173,0.6012,69
+833,Classic Avocado #833,meat seafood,4134,0.6009,1650
+943,Premium Hummus #943,pets,1324,0.6005,529
+486,Gluten-Free Dog Treats #486,beverages,3241,0.6001,1296
+469,Premium Avocado #469,beverages,400,0.6,160
+641,Gluten-Free Ground Coffee #641,pantry,260,0.6,104
+491,Low-Fat Olive Oil #491,beverages,220,0.6,88
+810,Low-Fat Dog Treats #810,dry goods pasta,160,0.6,64
+935,Spicy Granola #935,bakery,120,0.6,48
+783,Natural Pasta Sauce #783,dairy eggs,105,0.6,42
+285,Spicy IPA #285,bakery,100,0.6,40
+467,Spicy Dog Treats #467,dairy eggs,85,0.6,34
+206,Organic Avocado #206,beverages,1197,0.599,480
+303,Original Paper Towels #303,produce,409,0.599,164
+759,Family Size Avocado #759,dairy eggs,157,0.5987,63
+963,Natural Granola #963,alcohol,137,0.5985,55
+152,Family Size Paper Towels #152,snacks,132,0.5985,53
+483,Gluten-Free Sparkling Lemonade #483,beverages,122,0.5984,49
+277,Whole Olive Oil #277,meat seafood,239,0.5983,96
+332,Classic Avocado #332,frozen,112,0.5982,45
+497,Fresh Olive Oil #497,dairy eggs,92,0.5978,37
+440,Family Size Sparkling Water #440,frozen,87,0.5977,35
+326,Classic Almond Milk #326,beverages,87,0.5977,35
+764,Natural Dog Treats #764,beverages,169,0.5976,68
+658,Classic Almond Milk #658,pantry,82,0.5976,33
+131,Fresh Dog Treats #131,canned goods,4199,0.5973,1691
+890,Premium Banana #890,beverages,67,0.597,27
+650,Classic Paper Towels #650,alcohol,124,0.5968,50
+920,Classic IPA #920,pantry,109,0.5963,44
+284,Lite Salsa #284,meat seafood,364,0.5962,147
+926,Classic Pasta Sauce #926,beverages,213,0.5962,86
+796,Organic Ground Coffee #796,snacks,104,0.5962,42
+362,Low-Fat Ice Cream #362,deli,99,0.596,40

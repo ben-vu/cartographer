@@ -1,0 +1,21 @@
+# Exact pins for reproducible installs (versions this project was built/tested on).
+# Requires Python 3.11+ (pandas 3.x).
+
+# Core data + DB
+pandas==3.0.2
+polars==1.41.2
+pyarrow==24.0.0          # required for the pandas <-> polars bridge
+SQLAlchemy==2.0.50
+psycopg2-binary==2.9.12
+python-dotenv==1.2.2
+
+# ML
+scikit-learn==1.8.0
+
+# Plotting
+matplotlib==3.10.8
+
+# Dashboard preview rendering (optional; only needed to regenerate PNG renders
+# of dashboard/preview.html — the HTML itself needs nothing).
+# Also requires: playwright install chromium
+# playwright==1.56.0

@@ -1,0 +1,38 @@
+{
+  "null_counts": {
+    "orders": {
+      "order_id": 0,
+      "user_id": 0,
+      "eval_set": 0,
+      "order_number": 0,
+      "order_dow": 0,
+      "order_hour_of_day": 0,
+      "days_since_prior_order": 5000
+    },
+    "order_products": {
+      "order_id": 0,
+      "product_id": 0,
+      "add_to_cart_order": 0,
+      "reordered": 0,
+      "eval_set": 0
+    },
+    "products": {
+      "product_id": 0,
+      "product_name": 0,
+      "aisle_id": 0,
+      "department_id": 0
+    },
+    "product_prices": {
+      "product_id": 0,
+      "price": 0
+    }
+  },
+  "duplicate_order_ids": 0,
+  "duplicate_line_items": 0,
+  "dspo_nulls_match_first_orders": true,
+  "dspo_out_of_range": 0,
+  "orphan_product_refs": 0,
+  "orphan_order_refs": 0,
+  "nonpositive_prices": 0,
+  "orders_without_items": 0
+}

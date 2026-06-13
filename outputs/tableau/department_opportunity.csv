@@ -1,0 +1,18 @@
+department,predicted_candidates,avg_reorder_proba,actual_reorders
+produce,11536,0.2445,2832.0
+pets,9330,0.236,2230.0
+dairy eggs,24359,0.234,5701.0
+dry goods pasta,11171,0.196,2201.0
+pantry,15582,0.1925,3013.0
+household,7024,0.1862,1315.0
+canned goods,12353,0.1795,2198.0
+meat seafood,14859,0.1646,2398.0
+breakfast,4119,0.1576,634.0
+beverages,16374,0.1539,2486.0
+snacks,8843,0.1526,1331.0
+personal care,5909,0.151,893.0
+bakery,6269,0.1474,917.0
+deli,5870,0.1468,849.0
+babies,3351,0.145,511.0
+frozen,3034,0.1445,446.0
+alcohol,4838,0.1417,644.0

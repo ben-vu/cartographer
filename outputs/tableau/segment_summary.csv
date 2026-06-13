@@ -1,0 +1,11 @@
+segment,customers,avg_recency_days,avg_frequency,avg_monetary,total_monetary,avg_rfm_score,recommended_action,pct_customers,pct_revenue
+Loyal Customers,800,6.6,15.4,941.27,753018.21,12.2,Upsell higher-value items; ask for reviews.,16.0,20.6
+At Risk,813,16.3,12.8,776.04,630924.28,8.36,Win-back campaign; personalised reorders.,16.3,17.2
+Potential Loyalists,809,3.6,10.9,669.48,541606.72,9.63,Membership/loyalty offers to deepen the habit.,16.2,14.8
+Hibernating,791,15.9,8.8,534.55,422831.31,4.82,Low-cost reactivation; otherwise let lapse.,15.8,11.5
+Can't Lose Them,396,16.0,17.1,1040.29,411952.93,11.04,Aggressive win-back; they were valuable.,7.9,11.2
+Champions,404,2.1,15.3,926.59,374343.37,13.67,"Reward; early access, referrals, VIP perks.",8.1,10.2
+About to Sleep,382,8.1,8.7,529.38,202223.16,6.29,Reactivate with relevant recommendations.,7.6,5.5
+Need Attention,202,7.9,11.8,711.51,143724.01,8.92,Limited-time offers on past favourites.,4.0,3.9
+Promising,213,5.0,7.4,451.76,96225.23,6.31,Targeted offers and brand awareness.,4.3,2.6
+New Customers,190,2.1,7.4,452.6,85993.93,7.34,Onboarding support; build the second-order habit.,3.8,2.3
